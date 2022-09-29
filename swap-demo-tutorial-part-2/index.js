@@ -14,3 +14,4 @@ async function connect() {
       }
     }
 
+document.getElementById("login_button").onclick = connect;
